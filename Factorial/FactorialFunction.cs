@@ -4,6 +4,11 @@ namespace Factorial
 {
     public static class FactorialFunction
     {
+        /// <summary>
+        /// Computes factorial
+        /// </summary>
+        /// <param name="n">Number</param>
+        /// <returns></returns>
         public static double ComputeFactorial(int n)
         {
             EnsureNIsNotNegative(n);
