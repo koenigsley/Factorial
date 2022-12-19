@@ -1,5 +1,5 @@
 ﻿using System;
-using static Factorial.FactorialFunction;
+//using static Factorial.FactorialFunction;
 
 namespace Factorial
 {
